@@ -1,8 +1,8 @@
 body {
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-family: Garamond;
     margin: 0;
     padding: 0;
-    background-color: rgb(5, 5, 5)
+    background-color: rgb(255, 255, 255);
 }
 
 .menu{
@@ -14,7 +14,7 @@ body {
 }
 
 h1{
-    color: rgba(255, 255, 255, 0.868);
+    color: rgba(0, 0, 0, 0.868);
     font-size: 35px;
     text-align: left;
     margin-left: 38px;
@@ -23,16 +23,16 @@ h1{
 
 a {
     padding: 4px;
-    color: rgba(255, 255, 255, 0.868);
+    color: rgb(0, 0, 0);
 }
 
 #intro{
     text-align: center;
-    font-size: 24px;
+    font-size: 28px;
     margin-top: 8%;
     float: left;
     margin-left: 5%;
-    color: rgba(255, 255, 255, 0.868);
+    color: rgb(40, 40, 40);
 }
 
 #foto_perfil{
