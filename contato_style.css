@@ -1,8 +1,9 @@
 body {
-    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-family: Garamond;
     margin: 0;
     padding: 0;
-    background-color: rgb(5, 5, 5)
+    background-color: rgb(250, 250, 250);
+    font-size: 20px;
 }
 
 .menu{
@@ -10,20 +11,20 @@ body {
     margin-right: 35px;
     float: right;
     margin-top: -57px;
-    font-size: 22px;
 }
 
 h1{
-    color: rgba(255, 255, 255, 0.868);
+    color: rgb(0, 0, 0);
 }
 
 a{
     padding: 4px;
-    color: rgba(255, 255, 255, 0.868);
+    color: rgb(0, 0, 0);
+    font-size: 27px;
 }
 
 #contact{
-    color: rgba(255, 255, 255, 0.868);
+    color: rgb(45, 45, 45);
     text-align: center;
     margin: 5%;
 }
