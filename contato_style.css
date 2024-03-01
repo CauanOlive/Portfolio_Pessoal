@@ -1,0 +1,29 @@
+body {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(5, 5, 5)
+}
+
+.menu{
+    display: flex;
+    margin-right: 35px;
+    float: right;
+    margin-top: -57px;
+    font-size: 22px;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.868);
+}
+
+a{
+    padding: 4px;
+    color: rgba(255, 255, 255, 0.868);
+}
+
+#contact{
+    color: rgba(255, 255, 255, 0.868);
+    text-align: center;
+    margin: 5%;
+}

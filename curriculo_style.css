@@ -1,0 +1,50 @@
+body {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(5, 5, 5)
+}
+
+.menu{
+    display: flex;
+    margin-right: 35px;
+    float: right;
+    margin-top: -5%;
+    font-size: 22px;
+}
+
+a {
+    padding: 4px;
+    color: rgba(255, 255, 255, 0.868);
+}
+
+#Nome{
+    color : rgba(255, 255, 255, 0.868);
+    text-align: center;
+    margin-top: 7%;
+}
+
+#Sobre_mim{
+    color : rgba(255, 255, 255, 0.868);
+    text-align: center;
+    font-size: 22px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#Topicos{
+    color : rgba(255, 255, 255, 0.868);
+    font-size: 22px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#Ex{text-align: center;}
+
+#Text_Ex{
+    color : rgba(255, 255, 255, 0.868);
+    text-align: center;
+    font-size: 22px;
+    margin-left: 6%;
+    margin-right: 6%;
+}

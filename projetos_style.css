@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(5, 5, 5);
+    color: rgba(255, 255, 255, 0.868);
+}
+
+.menu{
+    display: flex;
+    margin-right: 35px;
+    float: right;
+    margin-top: -57px;
+    font-size: 22px;
+}
+
+a {
+    padding: 4px;
+    color: rgba(255, 255, 255, 0.868);
+}
+
+#Imgs_Small{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 20px;
+}
+
+#Texto{
+    font-size: 24px;
+}
+
+#Imgs_Big{
+    list-style: none;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 20px;
+}

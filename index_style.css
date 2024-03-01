@@ -1,0 +1,47 @@
+body {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(5, 5, 5)
+}
+
+.menu{
+    display: flex;
+    margin-right: 35px;
+    float: right;
+    margin-top: -57px;
+    font-size: 22px;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.868);
+    font-size: 35px;
+    text-align: left;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+
+a {
+    padding: 4px;
+    color: rgba(255, 255, 255, 0.868);
+}
+
+#intro{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 8%;
+    float: left;
+    margin-left: 5%;
+    color: rgba(255, 255, 255, 0.868);
+}
+
+#foto_perfil{
+    background-image: url(images/foto_perfil.jpg);
+    background-size: cover;
+    padding: 220px;
+    float: inline-start;
+    margin-left: 770px;
+    margin-top: -20%;
+    border-radius: 100px;    
+    background-repeat: no-repeat;
+}   
