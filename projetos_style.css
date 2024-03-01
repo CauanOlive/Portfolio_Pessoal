@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(5, 5, 5);
-    color: rgba(255, 255, 255, 0.868);
+    font-family: Garamond;
+    background-color: rgb(250, 250, 250);
 }
 
 .menu{
@@ -11,9 +11,13 @@ body{
     font-size: 22px;
 }
 
+p{
+    color: rgb(45, 45, 45);
+}
+
 a {
     padding: 4px;
-    color: rgba(255, 255, 255, 0.868);
+    color: rgb(0, 0, 0);
 }
 
 #Imgs_Small{
@@ -25,7 +29,7 @@ a {
 }
 
 #Texto{
-    font-size: 24px;
+    font-size: 25px;
 }
 
 #Imgs_Big{
